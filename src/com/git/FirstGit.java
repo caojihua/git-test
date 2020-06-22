@@ -12,6 +12,7 @@ public class FirstGit {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //hello git project
 
     }
 
@@ -20,5 +21,6 @@ public class FirstGit {
         int i =0;
         i+=10.0;
         System.out.println(i);
+        System.out.println(i+10);
     }
 }
